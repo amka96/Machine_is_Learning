@@ -1,1 +1,1 @@
-# gui_with_python
+# Python Quiz App

@@ -1,1 +1,1 @@
-# Python Quiz App
+# Thermography Automated Fault Detection
